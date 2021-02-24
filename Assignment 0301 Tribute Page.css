@@ -1,0 +1,58 @@
+body{
+    background-color: #e6ffe6;
+    font-family: "Combo";
+    border-style: double;
+    padding: 20px;
+}
+h1{
+    font-size: xx-large;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.head:hover {
+    color: #ff0000;
+  }
+.head{
+    font-size: large;
+    text-align: center;
+}
+#img1{
+    float: right;
+    border-radius: 15px; 
+}
+#ref1{
+    color: purple;
+    float: right;
+}
+a:hover {
+    color: hotpink;
+  }
+#img2{
+    float: left;
+    margin-right: 10px;
+}
+#table_head{
+    font-size: xx-large;
+    text-align:left;
+    padding-bottom: 2px;
+}
+#t1{
+    border-color: black;
+    border-collapse: collapse;
+    border-spacing: 10px;
+}
+th{
+    text-align: left;
+    font-weight: bold;
+    background-color: palegoldenrod;
+}
+td{
+    text-align: left;
+}
+#quote{
+    background:thistle;
+    text-align: center;
+    border-style: outset;
+}
